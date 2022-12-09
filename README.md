@@ -1,7 +1,7 @@
 ## Eai eu sou o Dener - Atualmente estudo: Desenvolvimento de Sistemas | Qualidade de Software (QA)
 <div align="center">
   <a href="https://github.com/DenerBonrruque11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenerBonrruque11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenerBonrruque11&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerBonrruque11&layout=compact&langs_count=7&theme=red"/>
 </div>
 
